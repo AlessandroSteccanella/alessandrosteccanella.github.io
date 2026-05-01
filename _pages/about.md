@@ -15,3 +15,23 @@ I completed the [Swiss Program for Beginning Doctoral Students in Economics](htt
 
 You can find my CV [here](/files/cv.pdf). 
 
+## Research (work in progress  :sunny: :cloud: :construction_worker_man:) 
+title: "Research"
+
+• Beyond Chronological Age: Blood-Based Biological Age as a Predictor of Healthcare Utilisation (with L. De Menech and C. Nicodemo) 
+*R&R in Journal of Health Economics*
+[Presented at: [EuHEA 2024](https://euhea.eu/welcome_conference_2024.html), [AlpPop 2025](https://dondena.unibocconi.eu/news-events/alp-pop-2025), [University of Verona]([Brown bag seminar](https://www.dse.univr.it/?ent=ciclosem&idC=136&lang=en), [USI Lugano](https://idep.usi.ch/seminars), [University of Oxford]((https://www.phc.ox.ac.uk/events)]
+
+• Job Conditions and Biological Ageing
+Does anyone benefit biologically from retirement?
+[Presented at: [AIES XXX National Conference](https://www.aiesweb.it/xxx-national-conference/)]
+
+Employed dataset: 
+• Biological age work: Health and Retirement Study ([HRS](https://hrs.isr.umich.edu/about))  
+• Current work in progress: Centraal Bureau voor de Statistiek ([CBS](https://www.cbs.nl/)) and [Nivel Primary Care Database](https://www.nivel.nl/en/our-databases-and-panels/nivel-primary-care-database)  
+
+
+## Teaching
+
+- **[Course]**, USI Lugano, [Year] — Teaching Assistant for Prof. [Name]
+- **[Course]**, USI Lugano, [Year]
