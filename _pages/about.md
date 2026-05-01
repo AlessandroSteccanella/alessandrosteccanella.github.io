@@ -15,6 +15,10 @@ I completed the [Swiss Program for Beginning Doctoral Students in Economics](htt
 
 You can find my CV [here](/files/cv.pdf). 
 
+
+
+
+
 ### Research (work in progress  :sunny: :cloud: :construction_worker_man:) 
 
 • Beyond Chronological Age: Blood-Based Biological Age as a Predictor of Healthcare Utilisation (with L. De Menech and C. Nicodemo)<br> 
@@ -23,12 +27,21 @@ You can find my CV [here](/files/cv.pdf).
 • Job Conditions and Biological Ageing: Does anyone benefit biologically from retirement?<br>
 [Presented at: [AIES XXX National Conference](https://www.aiesweb.it/xxx-national-conference/)]
 
-Employed dataset:<br> 
-• Biological age work: Health and Retirement Study ([HRS](https://hrs.isr.umich.edu/about))<br>
-• Current work in progress: Centraal Bureau voor de Statistiek ([CBS](https://www.cbs.nl/)) and [Nivel Primary Care Database](https://www.nivel.nl/en/our-databases-and-panels/nivel-primary-care-database)  
 
 
-### Teaching
+> **Employed dataset:**<br>
+> • Biological age work: Health and Retirement Study ([HRS](https://hrs.isr.umich.edu/about))<br>
+> • Current work in progress: Centraal Bureau voor de Statistiek ([CBS](https://www.cbs.nl/)) and [Nivel Primary Care Database](https://www.nivel.nl/en/our-databases-and-panels/nivel-primary-care-database)
 
-• **[Microeconomia]**, USI Lugano, [SA 2025-2026] — Teaching Assistant for Prof. [F. Mazzonna]
-• **[Course]**, USI Lugano, [Year]
+
+
+
+### Teaching and research assistantships 
+• Causal Inference for Policy Evaluation, USI Lugano, [MSc, Spring 2026], Teaching Assistant for Prof. [F. Mazzonna] 
+• Public Economics, USI Lugano, [BSc, Fall 2025], Teaching Assistant for Prof. [F. Mazzonna] and Prof. [V. Rotondi]
+• Microeconomics, USI Lugano, [Fall 2025, Fall 2024], Teaching Assistant for Prof. [F. Mazzonna]
+• Economics for Communication, USI Lugano, [BSc, Fall 2024], Teaching Assistant for Prof. [F. Mazzonna] and Prof. [B. Antonioli Mantegazzini]
+• Institutional Foundations of Industrialization, Financialization, and Globalization of the Swiss Economy. Evidence from 140 Years of the Commercial Registry, [2023-2024], Research Assistant for Prof. [R. Parchet]
+
+
+
