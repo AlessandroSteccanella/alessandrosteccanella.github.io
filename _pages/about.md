@@ -49,7 +49,7 @@ You can find my CV [here](/files/cv.pdf).
 
 <table style="border:none; width:100%;">
 <tr style="border:none;">
-<td style="border:none; vertical-align:top; padding-right:22px;">
+<td style="border:none; vertical-align:top; padding-right:24px; font-size:1.15em;">
 Institute of Economics (IdEP)<br>
 Università della Svizzera italiana<br>
 Via Buffi 6, 6900 Lugano<br>
@@ -57,7 +57,7 @@ Switzerland<br><br>
 <a href="mailto:alessandro.steccanella@usi.ch">alessandro.steccanella@usi.ch</a>
 </td>
 <td style="border:none;">
-<iframe src="https://maps.google.com/maps?q=Via+Buffi+6,+6900+Lugano,+Switzerland&z=16&output=embed" width="350" height="250" style="border:0; border-radius:6px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?q=Via+Buffi+6,+6900+Lugano,+Switzerland&z=12&output=embed" width="350" height="250" style="border:0; border-radius:6px;" allowfullscreen="" loading="lazy"></iframe>
 </td>
 </tr>
 </table>
