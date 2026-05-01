@@ -28,7 +28,7 @@ You can find my CV [here](/files/cv.pdf).
 
 
 
-> **Employed datasets:**<br>
+> *Employed datasets:*<br>
 > • Biological age work: Health and Retirement Study ([HRS](https://hrs.isr.umich.edu/about))<br>
 > • Current work in progress: Centraal Bureau voor de Statistiek ([CBS](https://www.cbs.nl/)) and [Nivel Primary Care Database](https://www.nivel.nl/en/our-databases-and-panels/nivel-primary-care-database)
 
