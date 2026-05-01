@@ -40,7 +40,7 @@ You can find my CV [here](/files/cv.pdf).
 • [Public Economics](https://search.usi.ch/en/courses/35275549/public-economics), USI Lugano, BSc, Fall 2025, Teaching Assistant for Prof. F. Mazzonna and Prof. V. Rotondi<br>
 • [Microeconomics](https://search.usi.ch/en/courses/35275822/microeconomia), USI Lugano, Fall 2025, Fall 2024, Teaching Assistant for Prof. F. Mazzonna<br>
 • [Economics for Communication](https://search.usi.ch/en/courses/35275275/economics-for-communication), USI Lugano, BSc, Fall 202, Teaching Assistant for Prof. F. Mazzonna and Prof. B. Antonioli Mantegazzini<br>
-• [Institutional Foundations of Industrialization, Financialization, and Globalization of the Swiss Economy.<br>Evidence from 140 Years of the Commercial Registry](https://data.snf.ch/grants/grant/209465), 2023-2024, Research Assistant for Prof. R. Parchet<br>
+• [Institutional Foundations of Industrialization, Financialization, and Globalization of the Swiss Economy. Evidence from 140 Years of the Commercial Registry](https://data.snf.ch/grants/grant/209465), 2023-2024, Research Assistant for Prof. R. Parchet<br>
 
 
 ---
