@@ -49,7 +49,7 @@ You can find my CV [here](/files/cv.pdf).
 
 <table style="border:none; width:100%;">
 <tr style="border:none;">
-<td style="border:none; vertical-align:top; padding-right:24px; font-size:1.15em;">
+<td style="border:none; vertical-align:top; padding-right:24px; font-size:1.25em;">
 Institute of Economics (IdEP)<br>
 Università della Svizzera italiana<br>
 Via Buffi 6, 6900 Lugano<br>
