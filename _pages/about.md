@@ -17,10 +17,9 @@ You can find my CV [here](/files/cv.pdf).
 
 
 <br>
-<br>
 
-### Research
-*work in progress :construction_worker_man:*<br>
+### Research *work in progress :construction_worker_man:*<br>
+
 
 • Beyond Chronological Age: Blood-Based Biological Age as a Predictor of Healthcare Utilisation (with L. De Menech and C. Nicodemo)<br> 
 *R&R in Journal of Health Economics* [Presented at: [EuHEA 2024](https://euhea.eu/welcome_conference_2024.html), [AlpPop 2025](https://dondena.unibocconi.eu/news-events/alp-pop-2025), [University of Verona](https://www.dse.univr.it/?ent=ciclosem&idC=136&lang=en), [USI Lugano](https://idep.usi.ch/seminars), [University of Oxford](https://www.phc.ox.ac.uk/events)]
@@ -36,7 +35,6 @@ You can find my CV [here](/files/cv.pdf).
 
 
 <br>
-<br>
 
 ### Teaching and research assistantships 
 • [Causal Inference for Policy Evaluation](https://search.usi.ch/en/courses/35275839/causal-inference-for-policy-evaluation), USI Lugano, MSc, Spring 2026, Teaching Assistant for Prof. F. Mazzonna<br> 
@@ -46,7 +44,6 @@ You can find my CV [here](/files/cv.pdf).
 • [Institutional Foundations of Industrialization, Financialization, and Globalization of the Swiss Economy.<br>Evidence from 140 Years of the Commercial Registry](https://data.snf.ch/grants/grant/209465), 2023-2024, Research Assistant for Prof. R. Parchet<br>
 
 
-<br>
 <br>
 
 ### Contact 
