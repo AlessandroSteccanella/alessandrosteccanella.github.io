@@ -20,7 +20,7 @@ You can find my CV [here](/files/cv.pdf).
 ### Research *(work in progress :construction_worker_man:)*<br>
 
 
-• Beyond Chronological Age: Blood-Based Biological Age as a Predictor of Healthcare Utilisation (with L. De Menech and C. Nicodemo)<br> 
+• Beyond Chronological Age: Blood-Based Biological Age as a Predictor of Healthcare Utilisation (with [L. De Menech](https://www.linkedin.com/in/lorenzo-de-menech-87a9011b8/) and [C. Nicodemo](https://www.catianicodemo.com/))<br> 
 *R&R in Journal of Health Economics* [Presented at: [EuHEA 2024](https://euhea.eu/welcome_conference_2024.html), [AlpPop 2025](https://dondena.unibocconi.eu/news-events/alp-pop-2025), [University of Verona](https://www.dse.univr.it/?ent=ciclosem&idC=136&lang=en), [USI Lugano](https://idep.usi.ch/seminars), [University of Oxford](https://www.phc.ox.ac.uk/events)]
 
 • Job Conditions and Biological Ageing: Does anyone benefit biologically from retirement?<br>
