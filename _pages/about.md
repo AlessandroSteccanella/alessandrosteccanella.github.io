@@ -29,7 +29,7 @@ You can find my CV [here](/files/cv.pdf).
 
 
 
-> **Employed dataset:**<br>
+> **Employed datasets:**<br>
 > • Biological age work: Health and Retirement Study ([HRS](https://hrs.isr.umich.edu/about))<br>
 > • Current work in progress: Centraal Bureau voor de Statistiek ([CBS](https://www.cbs.nl/)) and [Nivel Primary Care Database](https://www.nivel.nl/en/our-databases-and-panels/nivel-primary-care-database)
 
@@ -37,11 +37,11 @@ You can find my CV [here](/files/cv.pdf).
 
 
 ### Teaching and research assistantships 
-• Causal Inference for Policy Evaluation, USI Lugano, [MSc, Spring 2026], Teaching Assistant for Prof. [F. Mazzonna] 
-• Public Economics, USI Lugano, [BSc, Fall 2025], Teaching Assistant for Prof. [F. Mazzonna] and Prof. [V. Rotondi]
-• Microeconomics, USI Lugano, [Fall 2025, Fall 2024], Teaching Assistant for Prof. [F. Mazzonna]
-• Economics for Communication, USI Lugano, [BSc, Fall 2024], Teaching Assistant for Prof. [F. Mazzonna] and Prof. [B. Antonioli Mantegazzini]
-• Institutional Foundations of Industrialization, Financialization, and Globalization of the Swiss Economy. Evidence from 140 Years of the Commercial Registry, [2023-2024], Research Assistant for Prof. [R. Parchet]
+• Causal Inference for Policy Evaluation, USI Lugano, [MSc, Spring 2026], Teaching Assistant for Prof. [F. Mazzonna]<br> 
+• Public Economics, USI Lugano, [BSc, Fall 2025], Teaching Assistant for Prof. [F. Mazzonna] and Prof. [V. Rotondi]<br>
+• Microeconomics, USI Lugano, [Fall 2025, Fall 2024], Teaching Assistant for Prof. [F. Mazzonna]<br>
+• Economics for Communication, USI Lugano, [BSc, Fall 2024], Teaching Assistant for Prof. [F. Mazzonna] and Prof. [B. Antonioli Mantegazzini]<br>
+• Institutional Foundations of Industrialization, Financialization, and Globalization of the Swiss Economy. Evidence from 140 Years of the Commercial Registry, [2023-2024], Research Assistant for Prof. [R. Parchet]<br>
 
 
 
