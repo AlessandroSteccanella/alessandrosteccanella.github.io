@@ -52,7 +52,7 @@ You can find my CV [here](/files/cv.pdf).
 
 
 ### Contact 
-Institute of Economics (IdEP)
-Università della Svizzera italiana
-Via Buffi 6, 6900 Lugano, Switzerland
+Institute of Economics (IdEP)<br>
+Università della Svizzera italiana<br>
+Via Buffi 6, 6900 Lugano, Switzerland<br>
 [alessandro.steccanella@usi.ch](mailto:alessandro.steccanella@usi.ch)
