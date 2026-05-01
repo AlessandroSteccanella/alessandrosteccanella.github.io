@@ -36,12 +36,20 @@ You can find my CV [here](/files/cv.pdf).
 
 
 
+
 ### Teaching and research assistantships 
-• Causal Inference for Policy Evaluation, USI Lugano, [MSc, Spring 2026], Teaching Assistant for Prof. [F. Mazzonna]<br> 
-• Public Economics, USI Lugano, [BSc, Fall 2025], Teaching Assistant for Prof. [F. Mazzonna] and Prof. [V. Rotondi]<br>
-• Microeconomics, USI Lugano, [Fall 2025, Fall 2024], Teaching Assistant for Prof. [F. Mazzonna]<br>
-• Economics for Communication, USI Lugano, [BSc, Fall 2024], Teaching Assistant for Prof. [F. Mazzonna] and Prof. [B. Antonioli Mantegazzini]<br>
-• Institutional Foundations of Industrialization, Financialization, and Globalization of the Swiss Economy. Evidence from 140 Years of the Commercial Registry, [2023-2024], Research Assistant for Prof. [R. Parchet]<br>
+• Causal Inference for Policy Evaluation, USI Lugano, MSc, Spring 2026, Teaching Assistant for Prof. F. Mazzonna<br> 
+• Public Economics, USI Lugano, BSc, Fall 2025, Teaching Assistant for Prof. F. Mazzonna and Prof. V. Rotondi<br>
+• Microeconomics, USI Lugano, Fall 2025, Fall 2024, Teaching Assistant for Prof. F. Mazzonna<br>
+• Economics for Communication, USI Lugano, BSc, Fall 202], Teaching Assistant for Prof. F. Mazzonna and Prof. B. Antonioli Mantegazzini<br>
+• Institutional Foundations of Industrialization, Financialization, and Globalization of the Swiss Economy. Evidence from 140 Years of the Commercial Registry, [2023-2024], Research Assistant for Prof. R. Parchet<br>
 
 
 
+
+
+### Contact 
+Institute of Economics (IdEP)
+Università della Svizzera italiana
+Via Buffi 6, 6900 Lugano, Switzerland
+[alessandro.steccanella@usi.ch](mailto:alessandro.steccanella@usi.ch)
