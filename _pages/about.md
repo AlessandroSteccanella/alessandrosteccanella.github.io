@@ -30,5 +30,5 @@ Employed dataset:<br>
 
 ### Teaching
 
-- **[Course]**, USI Lugano, [Year] — Teaching Assistant for Prof. [Name]
-- **[Course]**, USI Lugano, [Year]
+• **[Microeconomia]**, USI Lugano, [SA 2025-2026] — Teaching Assistant for Prof. [F. Mazzonna]
+• **[Course]**, USI Lugano, [Year]
