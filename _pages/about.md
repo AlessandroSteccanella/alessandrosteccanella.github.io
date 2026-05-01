@@ -15,8 +15,7 @@ I completed the [Swiss Program for Beginning Doctoral Students in Economics](htt
 
 You can find my CV [here](/files/cv.pdf). 
 
-
-<br>
+---
 
 ### Research *(work in progress :construction_worker_man:)*<br>
 
@@ -34,7 +33,7 @@ You can find my CV [here](/files/cv.pdf).
 > • Current work in progress: Centraal Bureau voor de Statistiek ([CBS](https://www.cbs.nl/)) and [Nivel Primary Care Database](https://www.nivel.nl/en/our-databases-and-panels/nivel-primary-care-database)
 
 
-<br>
+---
 
 ### Teaching and research assistantships 
 • [Causal Inference for Policy Evaluation](https://search.usi.ch/en/courses/35275839/causal-inference-for-policy-evaluation), USI Lugano, MSc, Spring 2026, Teaching Assistant for Prof. F. Mazzonna<br> 
@@ -44,7 +43,7 @@ You can find my CV [here](/files/cv.pdf).
 • [Institutional Foundations of Industrialization, Financialization, and Globalization of the Swiss Economy.<br>Evidence from 140 Years of the Commercial Registry](https://data.snf.ch/grants/grant/209465), 2023-2024, Research Assistant for Prof. R. Parchet<br>
 
 
-<br>
+---
 
 ### Contact 
 
