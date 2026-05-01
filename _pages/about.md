@@ -17,7 +17,7 @@ You can find my CV [here](/cv/).
 
 ---
 
-### Research *(work in progress :construction_worker_man:)*<br>
+### Research *(work in progress :construction_worker_man:)* {#research}
 
 
 • Beyond Chronological Age: Blood-Based Biological Age as a Predictor of Healthcare Utilisation (with [L. De Menech](https://www.linkedin.com/in/lorenzo-de-menech-87a9011b8/) and [C. Nicodemo](https://www.catianicodemo.com/))<br> 
@@ -35,7 +35,7 @@ You can find my CV [here](/cv/).
 
 ---
 
-### Teaching and research assistantships 
+### Teaching and research assistantships {#teaching}
 • [Causal Inference for Policy Evaluation](https://search.usi.ch/en/courses/35275839/causal-inference-for-policy-evaluation), USI Lugano MSc - Spring 2026 - T.A. for Prof. F. Mazzonna<br> 
 • [Public Economics](https://search.usi.ch/en/courses/35275549/public-economics), USI Lugano BSc - Fall 2025 - T.A. for Prof. F. Mazzonna and Prof. [V. Rotondi](https://www.valentinarotondi.eu/curriculum-vitae)<br>
 • [Microeconomics](https://search.usi.ch/en/courses/35275822/microeconomia), USI Lugano MSc - Fall 2025, Fall 2024 - T.A. for Prof. F. Mazzonna<br>
