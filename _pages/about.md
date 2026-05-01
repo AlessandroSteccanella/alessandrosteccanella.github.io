@@ -23,8 +23,8 @@ You can find my CV [here](/files/cv.pdf).
 • Job Conditions and Biological Ageing: Does anyone benefit biologically from retirement?<br>
 [Presented at: [AIES XXX National Conference](https://www.aiesweb.it/xxx-national-conference/)]
 
-Employed dataset: 
-• Biological age work: Health and Retirement Study ([HRS](https://hrs.isr.umich.edu/about))  
+Employed dataset:<br> 
+• Biological age work: Health and Retirement Study ([HRS](https://hrs.isr.umich.edu/about))<br>  
 • Current work in progress: Centraal Bureau voor de Statistiek ([CBS](https://www.cbs.nl/)) and [Nivel Primary Care Database](https://www.nivel.nl/en/our-databases-and-panels/nivel-primary-care-database)  
 
 
