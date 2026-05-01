@@ -25,7 +25,7 @@ author:
   pronouns         :
   bio              : "PhD Candidate in Economics"
   employer         : "USI Lugano<br>Università della Svizzera italiana"
-    location         : "Lugano, Switzerland"
+  #location         : "Lugano, Switzerland"
 
   uri              :
   email            : "alessandro.steccanella@usi.ch"
