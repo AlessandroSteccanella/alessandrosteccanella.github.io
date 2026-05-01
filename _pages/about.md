@@ -15,8 +15,7 @@ I completed the [Swiss Program for Beginning Doctoral Students in Economics](htt
 
 You can find my CV [here](/files/cv.pdf). 
 
-## Research (work in progress  :sunny: :cloud: :construction_worker_man:) 
-title: "Research"
+### Research (work in progress  :sunny: :cloud: :construction_worker_man:) 
 
 • Beyond Chronological Age: Blood-Based Biological Age as a Predictor of Healthcare Utilisation (with L. De Menech and C. Nicodemo) 
 *R&R in Journal of Health Economics*
@@ -31,7 +30,7 @@ Employed dataset:
 • Current work in progress: Centraal Bureau voor de Statistiek ([CBS](https://www.cbs.nl/)) and [Nivel Primary Care Database](https://www.nivel.nl/en/our-databases-and-panels/nivel-primary-care-database)  
 
 
-## Teaching
+### Teaching
 
 - **[Course]**, USI Lugano, [Year] — Teaching Assistant for Prof. [Name]
 - **[Course]**, USI Lugano, [Year]
