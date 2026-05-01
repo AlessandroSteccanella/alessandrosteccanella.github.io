@@ -16,10 +16,12 @@ I completed the [Swiss Program for Beginning Doctoral Students in Economics](htt
 You can find my CV [here](/files/cv.pdf). 
 
 
+<br>
+<br>
+<br>
 
-
-
-### Research (work in progress  :sunny: :cloud: :construction_worker_man:) 
+### Research<br> 
+*work in progress :construction_worker_man:*<br>
 
 • Beyond Chronological Age: Blood-Based Biological Age as a Predictor of Healthcare Utilisation (with L. De Menech and C. Nicodemo)<br> 
 *R&R in Journal of Health Economics* [Presented at: [EuHEA 2024](https://euhea.eu/welcome_conference_2024.html), [AlpPop 2025](https://dondena.unibocconi.eu/news-events/alp-pop-2025), [University of Verona](https://www.dse.univr.it/?ent=ciclosem&idC=136&lang=en), [USI Lugano](https://idep.usi.ch/seminars), [University of Oxford](https://www.phc.ox.ac.uk/events)]
@@ -34,8 +36,9 @@ You can find my CV [here](/files/cv.pdf).
 > • Current work in progress: Centraal Bureau voor de Statistiek ([CBS](https://www.cbs.nl/)) and [Nivel Primary Care Database](https://www.nivel.nl/en/our-databases-and-panels/nivel-primary-care-database)
 
 
-
-
+<br>
+<br>
+<br>
 
 ### Teaching and research assistantships 
 • [Causal Inference for Policy Evaluation](https://search.usi.ch/en/courses/35275839/causal-inference-for-policy-evaluation), USI Lugano, MSc, Spring 2026, Teaching Assistant for Prof. F. Mazzonna<br> 
