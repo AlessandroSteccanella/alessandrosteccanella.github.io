@@ -38,11 +38,11 @@ You can find my CV [here](/files/cv.pdf).
 
 
 ### Teaching and research assistantships 
-• Causal Inference for Policy Evaluation, USI Lugano, MSc, Spring 2026, Teaching Assistant for Prof. F. Mazzonna<br> 
-• Public Economics, USI Lugano, BSc, Fall 2025, Teaching Assistant for Prof. F. Mazzonna and Prof. V. Rotondi<br>
-• Microeconomics, USI Lugano, Fall 2025, Fall 2024, Teaching Assistant for Prof. F. Mazzonna<br>
-• Economics for Communication, USI Lugano, BSc, Fall 202], Teaching Assistant for Prof. F. Mazzonna and Prof. B. Antonioli Mantegazzini<br>
-• Institutional Foundations of Industrialization, Financialization, and Globalization of the Swiss Economy. Evidence from 140 Years of the Commercial Registry, [2023-2024], Research Assistant for Prof. R. Parchet<br>
+• [Causal Inference for Policy Evaluation](https://search.usi.ch/en/courses/35275839/causal-inference-for-policy-evaluation), USI Lugano, MSc, Spring 2026, Teaching Assistant for Prof. F. Mazzonna<br> 
+• [Public Economics](https://search.usi.ch/en/courses/35275549/public-economics), USI Lugano, BSc, Fall 2025, Teaching Assistant for Prof. F. Mazzonna and Prof. V. Rotondi<br>
+• [Microeconomics](https://search.usi.ch/en/courses/35275822/microeconomia), USI Lugano, Fall 2025, Fall 2024, Teaching Assistant for Prof. F. Mazzonna<br>
+• [Economics for Communication](https://search.usi.ch/en/courses/35275275/economics-for-communication), USI Lugano, BSc, Fall 202, Teaching Assistant for Prof. F. Mazzonna and Prof. B. Antonioli Mantegazzini<br>
+• [Institutional Foundations of Industrialization, Financialization, and Globalization of the Swiss Economy. Evidence from 140 Years of the Commercial Registry](https://data.snf.ch/grants/grant/209465), 2023-2024, Research Assistant for Prof. R. Parchet<br>
 
 
 
