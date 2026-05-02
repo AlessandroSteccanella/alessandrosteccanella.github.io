@@ -33,7 +33,7 @@ author:
   googlescholar    :
   inspire-hep      :
   impactstory      :
-  orcid            :
+  orcid            : "https://orcid.org/0009-0009-5285-532X"
   semantic         :
   ssrn             :
   pubmed           :
@@ -142,6 +142,7 @@ social:
   name                   : *name
   links:
     - "https://www.linkedin.com/in/alessandro-steccanella-6498b7116/"
+    - "https://orcid.org/0009-0009-5285-532X"
 
 # Analytics
 analytics:
@@ -154,6 +155,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - googled62644fb020bdd44.html
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
