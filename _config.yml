@@ -8,25 +8,22 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # "default", "air", "sunrise", "mint", "dirt", "contrast"
+site_theme               : "default"
 title                    : "Alessandro Steccanella"
 title_separator          : "-"
 name                     : &name "Alessandro Steccanella"
-description              : &description "Personal website of Alessandro Steccanella, PhD Candidate in Economics at USI Lugano."
+description              : &description "Alessandro Steccanella - PhD Candidate in Economics at Universita della Svizzera italiana (USI Lugano). Research in health economics, labour economics, and biological ageing. Supervisor: Fabrizio Mazzonna."
 url                      : "https://alessandrosteccanella.github.io"
 baseurl                  : ""
 repository               : "alessandrosteccanella/alessandrosteccanella.github.io"
 
 # Site Author
 author:
-  # Biographic information
   avatar           : "profile.png"
   name             : "Alessandro Steccanella"
   pronouns         :
   bio              : "PhD Candidate in Economics"
   employer         : "USI Lugano<br>Università della Svizzera italiana"
-  #location         : "Lugano, Switzerland"
-
   uri              :
   email            : "alessandro.steccanella@usi.ch"
 
@@ -63,7 +60,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "alessandro-steccanella-6498b7116/"
+  linkedin         : "alessandro-steccanella-6498b7116"
   mastodon         :
   medium           :
   pinterest        :
@@ -138,12 +135,13 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :
-og_description           :
+og_image                 : "/images/profile.png"
+og_description           : *description
 social:
-  type                   :
-  name                   :
+  type                   : Person
+  name                   : *name
   links:
+    - "https://www.linkedin.com/in/alessandro-steccanella-6498b7116/"
 
 # Analytics
 analytics:
