@@ -26,6 +26,8 @@ You can find my CV [here](/cv/).
 • Job Conditions and Biological Ageing: Does anyone benefit biologically from retirement?<br>
 [Presented at: [AIES XXX National Conference](https://www.aiesweb.it/xxx-national-conference/)]
 
+• Low Pay, High Price: Biological Impacts of Minimum Wage
+
 
 
 > *Employed datasets:*<br>
