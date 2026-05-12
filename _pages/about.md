@@ -17,7 +17,7 @@ You can find my CV [here](/cv/).
 
 ---
 
-### Research *(work in progress :construction_worker_man:)* {#research}
+### Research *(selected work in progress :construction_worker_man:)* {#research}
 
 
 • Beyond Chronological Age: Blood-Based Biological Age as a Predictor of Healthcare Utilisation (with [L. De Menech](https://www.linkedin.com/in/lorenzo-de-menech-87a9011b8/) and [C. Nicodemo](https://www.catianicodemo.com/))<br> 
