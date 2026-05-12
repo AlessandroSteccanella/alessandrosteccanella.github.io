@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at [Università della Svizzera italiana (USI Lugano)](https://www.usi.ch/) under the supervision of Prof. [Fabrizio Mazzonna](https://sites.google.com/site/fabriziomazzonna/home). 
+I am a PhD Candidate in Economics at [Università della Svizzera italiana (USI Lugano)](https://www.usi.ch/) under the supervision of [Fabrizio Mazzonna](https://sites.google.com/site/fabriziomazzonna/home). 
 
 > Research fields: health economics • labour economics • ageing
 
