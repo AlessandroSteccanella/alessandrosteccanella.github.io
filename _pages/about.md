@@ -24,7 +24,7 @@ You can find my CV [here](/cv/).
 *R&R in Journal of Health Economics* [Presented at: [EuHEA 2024](https://euhea.eu/welcome_conference_2024.html), [Alp-Pop 2025](https://dondena.unibocconi.eu/news-events/alp-pop-2025), [University of Verona](https://www.dse.univr.it/?ent=ciclosem&idC=136&lang=en), [USI Lugano](https://idep.usi.ch/seminars), [University of Oxford](https://www.phc.ox.ac.uk/events), [ESSGN conference 2026](https://essgn.org/conference-2026/)]
 
 • Job Conditions and Biological Ageing: Does anyone benefit from retirement?<br>
-[Presented at: [AIES XXX National Conference](https://www.aiesweb.it/xxx-national-conference/)]
+[Presented at: [AIES XXX National Conference](https://www.aiesweb.it/past-annual-conferences/)]
 
 • Low Pay, High Price: Biological Impacts of Minimum Wage
 
