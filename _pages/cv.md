@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-<iframe src="https://www.dropbox.com/scl/fi/feucid87rut2hx5feqm8n/cv.pdf?rlkey=h78fv3yoemsntrs5xdpg46mkm&st=l4piig13&raw=1" width="100%" height="900px" style="border:1px solid #ddd; border-radius:6px;"></iframe>
+<iframe src="https://www.dropbox.com/scl/fi/oj76vlnulhsrb0adtcw04/cv.pdf?rlkey=zp03co5zbdziql12vdhcnmla9&st=9hdxier7&raw=1" width="100%" height="900px" style="border:1px solid #ddd; border-radius:6px;"></iframe>
